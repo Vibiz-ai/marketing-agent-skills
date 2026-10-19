@@ -1,0 +1,4 @@
+interface:
+  display_name: "First Customers"
+  short_description: "Build a practical plan to win your first customers"
+  default_prompt: "Use $first-customers to find and test a path to my first ten paying customers."

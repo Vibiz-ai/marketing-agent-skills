@@ -1,0 +1,4 @@
+interface:
+  display_name: "Social Content System"
+  short_description: "Turn one offer into a sustainable content calendar"
+  default_prompt: "Use $social-content-system to build a two-week content plan for my business."

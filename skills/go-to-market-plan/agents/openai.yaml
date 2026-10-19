@@ -1,0 +1,4 @@
+interface:
+  display_name: "Go-to-Market Plan"
+  short_description: "Choose an audience, offer, channels and launch tests"
+  default_prompt: "Use $go-to-market-plan to turn my product into a focused launch plan."

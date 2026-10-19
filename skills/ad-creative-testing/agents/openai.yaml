@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ad Creative Testing"
+  short_description: "Create distinct ad concepts and a measurable test"
+  default_prompt: "Use $ad-creative-testing to prepare ad concepts and a small-budget test for my offer."
