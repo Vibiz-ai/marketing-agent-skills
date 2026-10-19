@@ -24,7 +24,7 @@ Installing a skill does not connect an account or authorize publishing, outreach
 
 ## Release status
 
-Prepared for publication on 2026-10-20. The skill-creator structural validator passes for all four skills. The owner intends to publish this content under the MIT License so users and directories can install and share it. Behavioral scenarios were reviewed against the workflows; independent agent evaluation and live campaign execution have not been run.
+Prepared for publication on 2026-10-20. The skill-creator structural validator passes for all four skills. This repository is published under the MIT License so users and directories can install and share it. Behavioral scenarios were reviewed against the workflows; independent agent evaluation and live campaign execution have not been run.
 
 ## Proposed distribution experiment
 
